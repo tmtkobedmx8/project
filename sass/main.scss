@@ -5,3 +5,20 @@ $mycolor: blue;
 body {
     background: $mycolor;
 }
+
+
+body {
+	background-color: black !important;
+}
+.main-container {
+	.header-description {
+		max-width: 500px;
+		margin: 0 auto;
+		margin-top: 20%;
+		text-align: center;
+	}
+
+	.welcome-header {
+		color: white;
+	}
+}

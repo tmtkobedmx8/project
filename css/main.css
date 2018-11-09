@@ -5988,7 +5988,10 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
     display: none !important; } }
 
 body {
-  background: #eee; }
+  background: blue; }
+
+body {
+  background-color: black !important; }
 
 .main-container .header-description {
   max-width: 500px;
